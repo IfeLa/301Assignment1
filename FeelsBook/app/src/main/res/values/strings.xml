@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lapiteFeelsBook</string>
+    <string name="loveButton">Love</string>
+    <string name="joyButton">Joy</string>
+    <string name="surpriseButton">Surprise</string>
+    <string name="angerButton">Anger</string>
+    <string name="sadnessButton">Sadness</string>
+    <string name="fearButton">Fear</string>
+    <string name="commentEditText">Enter a comment</string>
+    <string name="historyButton">View history</string>
+    <string name="historyLabel">PAST FEELINGS</string>
+    <string name="editButton">EDIT</string>
+    <string name="deleteButton">DELETE</string>
+    <string name="editText">Edit feeling</string>
+</resources>
